@@ -1,0 +1,12 @@
+1.
+a) maak een lijst met de namen van alle landen
+b) hoeveel landen zijn er in totaal ?
+
+
+3.
+a) Wat zijn de voornamen van de klanten
+b) Maak een lijst met de volledige namen van de klanten.
+c) maak een lijst met de volledige namen van de acteurs.
+d) maak een lijst met de volledige namen en email van de klanten.
+e) hoeveel kolommen heeft de tabel customer?
+
